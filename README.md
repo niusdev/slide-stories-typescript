@@ -49,7 +49,6 @@ src/
 └── script.ts     # Ponto de entrada: pega os elementos do DOM e inicia o Slide
 
 assets/           # Imagens e vídeo usados no carrossel
-dist/             # Saída compilada do TypeScript (gerada pelo tsc)
 ```
 
 ## Autor
